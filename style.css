@@ -1,0 +1,11 @@
+@font-face{
+  src:
+  url("Fonts/UpperEastSide.ttf");
+  font-family: UpperEastSide;
+}
+
+.title{
+  font-size: 40px;
+  line-height: 52px;
+  font-family: UpperEastSide;
+}
