@@ -1,11 +1,13 @@
-@font-face{
-  src:
-  url(Fonts/CorpoS.ttf);
-  font-family: CorpoS;
+@font-face {
+  font-family: 'UpperEastSide';
+  src: url('Fonts/UpperEastSide.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
+
 
 .title{
   font-size: 40px;
   line-height: 52px;
-  font-family: CorpoS;
+  font-family: UpperEastSide;
 }
