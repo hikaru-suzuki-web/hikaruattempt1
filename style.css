@@ -7,8 +7,14 @@
   font-family: Corpo S;
   }
   
-.title{
+.h1{
   font-size: 40px;
+  line-height: 52px;
+  font-family: Corpo S;
+}
+
+.paragraph {
+  font-size: 20px;
   line-height: 52px;
   font-family: Corpo S;
 }
