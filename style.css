@@ -1,10 +1,14 @@
 .body{
-  background-color: #25383C;
+  background-color: #ebf1f5;
 }
 
+@font-face {
+  src: url (Fonts/CorpoS.ttf);
+  font-family: Corpo S;
+  }
+  
 .title{
   font-size: 40px;
   line-height: 52px;
-  font-family: 'Cinzel', serif;
-
+  font-family: Corpo S;
 }
